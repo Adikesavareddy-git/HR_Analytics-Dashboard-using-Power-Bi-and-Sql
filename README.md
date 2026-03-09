@@ -61,4 +61,4 @@ SQL | Power BI | Data Modeling | Dashboard Design | Data Visualization
 
 Data becomes powerful when it tells a story — and HR analytics is one of the best ways to transform workforce data into strategic insight.
 
-#HRAnalytics #DataAnalytics #SQL #PowerBI #EmployeeRetention #DataDrivenHR #FrontlineMedia
+#HRAnalytics #DataAnalytics #SQL #PowerBI #EmployeeRetention #DataDrivenHR #FrontlineMedia(Flm)
